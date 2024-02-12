@@ -30,8 +30,11 @@ _Note_: on the first access (made with the username/password: admin/admin), Graf
 Once logged, a data source has to be set (follow the guidline here: [Grafana Datasource Configuration](https://quantumleap.readthedocs.io/en/stable/admin/grafana/)). Unlike the CrateDB configuration, the Database name is 'quantumleap' and the user set is 'postgres' 
 (according to the environment parameters set into the docker-compose file)
 
+![setup](https://github.com/alessandrasomma28/GeminiNexus/assets/86465812/1d5d3be4-f59a-43b1-9bcf-1c75ae9df6d1)
+
 Once linked the data source, it's possible to explore the data using the 'Explore' button (the bar on the left side) and to make some Dashboard (Create -> Dashboard).
 
+![explore1](https://github.com/alessandrasomma28/GeminiNexus/assets/86465812/386fe19c-6b23-495b-bf94-33aa416e2d75)
 ## References
 
 * [Timescale Repository](https://fiware-orion.readthedocs.io/en/master/)
